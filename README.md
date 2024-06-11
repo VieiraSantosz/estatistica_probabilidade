@@ -6,5 +6,7 @@ as análises a serem realizadas, ou seja, a descrição do problema e a soluçã
 # Análise a serem feitas
 
 a. Estatística descritiva
+
 b. Probabilidade
+
 c. Inferência
