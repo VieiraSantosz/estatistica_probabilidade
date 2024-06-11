@@ -4,6 +4,7 @@ O relatório deverá conter a descrição e explicação dos cálculos realizado
 as análises a serem realizadas, ou seja, a descrição do problema e a solução a partir do uso dos dados 
 
 O relatório deverá conter análises referentes aos conteúdos:
+
 a. Estatística descritiva
 
 b. Probabilidade
