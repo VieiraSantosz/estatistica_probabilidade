@@ -1,4 +1,4 @@
-# Projeto de Estatística e Probabilidade
+# Projeto de Estatística e Probabilidade - Febre Amarela
 Projeto de Estatística e Probabilidade cujo o objetivo é analisar um conjunto de dados sobre a Febre Amarela em humanos e primatas não-humanos no período de 1994 a 2023.
 
 # Proposta do Trabalho
