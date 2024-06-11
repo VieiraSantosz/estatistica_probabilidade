@@ -5,9 +5,8 @@ as análises a serem realizadas, ou seja, a descrição do problema e a soluçã
 
 ## O relatório deverá conter análises referentes aos conteúdos:
 
-a. Estatística descritiva
+a) Estatística descritiva
 
-b. Probabilidade
+b) Probabilidade
 
-c. Inferência
-
+c) Inferência
